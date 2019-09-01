@@ -1,2 +1,3 @@
 # Data Science Projects
-These are th projects i have done 
+These are the projects i have done and involved
+
